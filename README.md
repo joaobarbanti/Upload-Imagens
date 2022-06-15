@@ -4,8 +4,8 @@
 
 ## 🖥️ Algumas Telas Do Projeto
 
-<img align="center" src="git.png">
-<img align="center" src="git 2.png">
+<img align="center" src="1.png">
+<img align="center" src=" 2.png">
 
 ## 💻 Tecnologias Usadas
 <div style="display: inline_block"><br/>
