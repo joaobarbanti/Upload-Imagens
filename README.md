@@ -1,6 +1,6 @@
 ## 💰 Upload de imagens em React
 
-### Aplicação que permite você clicar em um botão e escolher qualquer imagem em seu computador para a mesma ser exibida na tela Instantaneamente após escolhida.
+### Aplicação que permite você clicar em um botão e escolher qualquer imagem em seu computador para a mesma ser exibida na tela Instantaneamente após escolhida. você pode deletar a mesma imagem após exibida na tela
 
 ## 🖥️ Algumas Telas Do Projeto
 
