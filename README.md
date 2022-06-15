@@ -18,7 +18,7 @@
 
 #### Clone o Projeto Com: </br>
 
-git clone https://github.com/JoaoRicardo2005/sistema-de-transacoes-blockchain-contratos-inteligentes
+git clone https://github.com/JoaoRicardo2005/Upload-Imagens
 #### Entre na pasta e instale as dependências com: 
  Yarn
 #### Com tudo correto você pode iniciar o servidor com:
